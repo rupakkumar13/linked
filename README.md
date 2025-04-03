@@ -49,7 +49,7 @@ if (head->next == head) {
     
     // Find the last node
     while (last->next != head) {
-        last = last->next;
+        last = last->next
     }
 
     // Update last node's next pointer to the second node
